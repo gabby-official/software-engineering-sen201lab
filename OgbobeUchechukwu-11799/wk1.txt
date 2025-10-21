@@ -1,1 +1,5 @@
-szfg
+Software engineering is the systematic process of designing, developing, testing, and maintaining software applications. 
+It applies engineering principles to software creation, ensuring that programs are reliable, efficient, and meet user needs. 
+Unlike simple programming, software engineering focuses on the entire lifecycle of a software product.
+Software engineers work in teams to define requirements, design system architecture, write code, and test functionality. 
+They also emphasize documentation, version control, and project management to ensure collaboration and long-term maintenance.
